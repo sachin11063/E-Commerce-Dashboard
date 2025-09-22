@@ -34,7 +34,7 @@ Throughout the development of this project, I have sought inspiration from a piv
 ## Badges
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+
 
 ## Project Learnings
 
